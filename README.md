@@ -9,6 +9,7 @@ Aplikasi Manajemen Buku guna meneyelesaikan tugas akhir dari course dicoding, ap
  - Menambah Buku
  - Menghapus Buku
  - Memindahkan Antar Rak
+ - Mencari Buku
 
 
 ## Installation
@@ -23,23 +24,26 @@ Install my-project
     
 ## Screenshots
 
-### Halaman Utama 
+### Halaman Utama
 
-![App Screenshot](https://drive.google.com/file/d/1-bwx-C5wsSolt3nyjek-YUWrfmU1rT1J/view?usp=sharing)
+![App Screenshot](./foto/frontend.jpg)
 
-### Menmbah Buku 
+### Menambah Buku 
 
-![App Screenshot](https://drive.google.com/file/d/1dUzcoF2z4v6bS3eLTX5XqW67lWWcwkS6/view?usp=sharing)
+![App Screenshot](./foto/add-book.jpg)
 Dan apa bila cheklist selesai di bava di klik maka akan menjadi
-![App Screenshot](https://drive.google.com/file/d/1EExGAg6Ly_jKeQR4fvqceWMFFZOKmp-l/view?usp=sharing)
+![App Screenshot](./foto/change-status.jpg)
 
 ### Setelah di Add 
 
-![App Screenshot](https://drive.google.com/file/d/1Bl1xg8dpXF6UHi3kw7e83UOVU8ubpsCb/view?usp=sharing)
+![App Screenshot](./foto/data.jpg)
 
 ### Pesan Sebelum di Hapus
 
-![App Screenshot](https://drive.google.com/file/d/1kqYk-lcAqYYj9nzvKwLDBZuiUhcK5xHE/view?usp=sharing)
+![App Screenshot](./foto/delete.jpg)
+
+### Fitur Search
+![App Screenshot](./foto/search.jpg)
 
 
 
